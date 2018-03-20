@@ -26,6 +26,7 @@
     "webpack-dev-server": "^3.1.1"
   },
   "dependencies": {
+    "coin-ticker": "^3.2.0",
     "semantic-ui-vue": "^0.2.5",
     "vue": "^2.5.16"
   }
